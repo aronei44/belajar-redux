@@ -3,6 +3,7 @@
 ## instalasi
 
 > git clone https://github.com/aronei44/belajar-redux.git
+> 
 > cd belajar-redux
 
 ## persiapan
